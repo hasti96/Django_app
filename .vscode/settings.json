@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "c:\\Users\\hasti\\anaconda3\\envs\\django\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
